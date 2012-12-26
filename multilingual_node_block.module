@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the multilingual node-block feature.
+ */
+
+include_once 'multilingual_node_block.features.inc';
